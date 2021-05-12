@@ -19,7 +19,7 @@
     "react-device-detect": "^1.13.1",
     "react-dom": "^16.13.1",
     "react-id-swiper": "^4.0.0",
-    "swiper": "^5.4.5"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {
     "@types/node": "^13.7.0",
